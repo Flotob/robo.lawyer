@@ -1,0 +1,8 @@
+{
+  "user": "privatkundevon.[some-id]@epost-gka.de",
+  "pass": "",
+  "app_id": "[some-id]",
+  "dev_id": "[some-id]",
+  "client_id": "[some-id]",
+  "redirect_uri": "http://localhost:8080"  
+}

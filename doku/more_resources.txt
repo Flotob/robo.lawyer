@@ -1,0 +1,3 @@
+url: http://www.epost.de/geschaeftskunden/marketingportal/marketingportal.html
+user: Epost
+pass: Marketingportal
